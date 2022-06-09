@@ -1,7 +1,7 @@
 # CAMION-CVPRW2022
 [CVPR DLGC, 2022] CAMION: Cascade Multi-input Multi-output Network for Skeleton Extraction
 
-[ [paper](https://openaccess.thecvf.com/content/CVPR2022W/DLGC/papers/Fang_CAMION_Cascade_Multi-Input_Multi-Output_Network_for_Skeleton_Extraction_CVPRW_2022_paper.pdf) | [youtube](https://www.youtube.com/watch?v=OOvP3w8DkJc) | [ppt](https://github.com/likyoo/CAMION-CVPRW2022/blob/main/CAMION_presentation.pdf) ]
+[ [paper](https://openaccess.thecvf.com/content/CVPR2022W/DLGC/html/Fang_CAMION_Cascade_Multi-Input_Multi-Output_Network_for_Skeleton_Extraction_CVPRW_2022_paper.html) | [youtube](https://www.youtube.com/watch?v=OOvP3w8DkJc) | [ppt](https://github.com/likyoo/CAMION-CVPRW2022/blob/main/CAMION_presentation.pdf) ]
 
 
 ----
